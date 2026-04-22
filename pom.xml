@@ -55,7 +55,7 @@
     <lombok.version>1.18.38</lombok.version>
     <mongo.version>5.4.0</mongo.version>
     <bson.version>5.4.0</bson.version>
-    <h2.version>2.3.232</h2.version>
+    <h2.version>2.4.240</h2.version>
 
     <!-- Plugins -->
     <maven-surefire-plugin.version>3.5.2</maven-surefire-plugin.version>
